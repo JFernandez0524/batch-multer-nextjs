@@ -1,4 +1,4 @@
-import { upload } from '@/middleware/multer';
+import { upload } from '@/app/config/multer';
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
